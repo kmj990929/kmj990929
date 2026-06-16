@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minjoo Kim | Data Engineer
+# 👋 Hi, I'm Minjoo Kim
 
 - 🏗️ Data Engineer at **LINE+**, building and operating large-scale data platforms (ad pipelines serving 130M+ DAU).
 - 🤖 Currently focused on **AI agent engineering** — designing production-minded GenAI / agentic systems with **LangGraph**, **Graph RAG**, and LLM observability.
